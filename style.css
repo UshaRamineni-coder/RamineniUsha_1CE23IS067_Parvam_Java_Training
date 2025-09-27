@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+    <H1>WELCOME TO CSS</H1>
+    <style>
+        body{
+            background-color:bisque;
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        }
+        h1{
+            color:black;
+        }
+    </style>
+</head>    
+<body>
+<p>this page is style by internal css,defined on the head</p>
+
+</body>
+</html>
